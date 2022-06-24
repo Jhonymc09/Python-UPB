@@ -5,6 +5,11 @@ Created on Sat May 28 14:11:57 2022
 @author: Jhony Meléndez
 """
 
+#Diplomado Python aplicado a la ingeniería
+#Autor Jhony Meléndez
+#ID 502198
+#Jhony.melendez@upb.edu.co
+
 import pandas as pd
 import random
 import numpy as np

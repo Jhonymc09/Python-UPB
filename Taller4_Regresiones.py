@@ -4,6 +4,11 @@ Created on Fri Jun 10 13:00:27 2022
 
 @author: Jhony Meléndez
 """
+#Diplomado Python aplicado a la ingeniería
+#Autor Jhony Meléndez
+#ID 502198
+#Jhony.melendez@upb.edu.co
+
 # import librerias
 import pandas as pd
 import numpy as np

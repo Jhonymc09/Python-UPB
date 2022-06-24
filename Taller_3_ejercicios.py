@@ -4,6 +4,11 @@ Created on Sat Jun  4 16:01:39 2022
 
 @author: Jhony Meléndez
 """
+#Diplomado Python aplicado a la ingeniería
+#Autor Jhony Meléndez
+#ID 502198
+#Jhony.melendez@upb.edu.co
+
 import pandas as pd
 from datetime import datetime
 import numpy as np

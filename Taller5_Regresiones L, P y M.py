@@ -5,6 +5,11 @@ Created on Sat Jun  4 16:07:55 2022
 @author: user
 """
 
+#Diplomado Python aplicado a la ingeniería
+#Autor Jhony Meléndez
+#ID 502198
+#Jhony.melendez@upb.edu.co
+
 #Realizar una regresión lineal
 #polinomial y múltiple con los datos asociados.
 #Las variables escogidas son libres.

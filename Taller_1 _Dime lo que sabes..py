@@ -6,6 +6,11 @@ Created on Sat May 28 11:14:37 2022
 # 
 """
 
+#Diplomado Python aplicado a la ingeniería
+#Autor Jhony Meléndez
+#ID 502198
+#Jhony.melendez@upb.edu.co
+
 a=1
 b=2
 c=3
